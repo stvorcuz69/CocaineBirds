@@ -1,45 +1,41 @@
-# CocaineBirds
+# CocaineBird
 
-Welcome to CocaineBirds, a fun and addictive game that will keep you entertained for hours! 
+**Flap Your Way to Adventure!**
 
-## About the Game
 
-CocaineBirds is a physics-based game where you control a group of daring birds on a mission to retrieve their precious stash of, well, you know what. But watch out, they're not the only ones after it! You'll need to navigate through challenging levels filled with obstacles, enemies, and tricky puzzles to reach your goal.
+## About CocaineBird
+
+CocaineBird is a thrilling and addictive game that will take you on a high-flying adventure like no other. Get ready to navigate through a world of excitement and challenges as you help your daring bird soar to new heights.
+
+## How to Play
+
+It's simple yet exhilarating:
+
+1. Tap the screen or click your mouse to make your CocaineBird flap its wings.
+2. Avoid obstacles and enemies as you ascend through the sky.
+3. Collect the coveted white powder, shiny coins, and colorful gems to boost your score and abilities.
+4. Challenge your friends and see who can reach the highest score.
 
 ## Features
 
-- Addictive gameplay that will test your skills and reflexes.
-- A variety of birds, each with unique abilities.
-- Creative and challenging levels that will keep you engaged.
-- Beautifully designed graphics and animations.
-- Power-ups and bonuses to help you on your mission.
-- Unlockable content and achievements.
+- Endless and increasingly challenging gameplay that keeps you coming back for more.
+- Beautifully designed levels with vibrant colors and captivating visuals.
+- Unlockable power-ups and unique bird skins for a personalized experience.
+- Compete with friends for the top spot on the leaderboard.
 
-## Getting Started
-
-To start playing CocaineBirds, follow these steps:
+## Installation
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-3. Use your mouse or touch controls to aim and launch the birds.
-4. Try to complete each level by collecting the coveted substance!
 
-## Contributing
+Get ready to embark on an epic adventure with CocaineBird!
 
-We welcome contributions from the community. If you're a developer and want to contribute to CocaineBirds, please follow these steps:
+## Credits
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test them thoroughly.
-4. Submit a pull request with a detailed descriptionewq of your changes.
-
-## License
-
-CocaineBirds is released under the [MIT License](LICENSE.md).
+CocaineBird is inspired by the iconic "Flappy Bird" and has been reimagined with a unique twist.
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [admin@stvorec.eu.org].
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [your@email.com].
 
-Enjoy CocaineBirds, and happy gaming!
-
+**Flap On!**
