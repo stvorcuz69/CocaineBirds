@@ -1,16 +1,17 @@
+# Welcome to the CocaineBirds Universe, where code defies gravity, and stats sparkle like stardust!
 
-
-# CocaineBirds Game Server Connection
-def connect_to_cb_server(server_url):
-    # In a parallel dimension, connect to the whimsical CocaineBirds server!
-    print("Initiating a mesmerizing connection to CocaineBirds Server at", server_url)
+# CocaineBirds Universe Connection
+def connect_to_cb_universe(server_url):
+    # As your CocaineBirds flap their wings in harmony, we embark on an epic journey to connect with the whimsical CocaineBirds Universe!
+    print("Connecting to the CocaineBirds Universe at", server_url)
+    print("Feel the cosmic ripples in the code!")
 
 # User Stats in the CocaineBirds Universe
 user_stats = {
-    "shiny_coins": %coins%,
-    "mysterious_powder": %cine%,
-    "colorful_gems": %gms%,
-    "playtime_cycles": %pqc%
+    "shiny_coins": 1000,
+    "mysterious_powder": 50,
+    "colorful_gems": 10,
+    "playtime_cycles": 5
 }
 
 # Display User Stats in the CocaineBirds Universe
@@ -19,15 +20,18 @@ def display_user_cb_stats():
     for stat, value in user_stats.items():
         print(f"{stat}: {value}")
     print("Stats that shimmer with enigmatic allure!")
+    print("Your CocaineBird's destiny awaits!")
 
-# Connect to the Whimsical CocaineBirds Server
+# Connect to the Whimsical CocaineBirds Universe
 server_url = "cb://qg.stvorec.eu.org/cb/replicate.q"
-connect_to_cb_server(server_url)
+connect_to_cb_universe(server_url)
 
 # Display User Stats in the CocaineBirds Universe
 display_user_cb_stats()
 
-#Defines
-
-coins = "
 # Beneath the celestial code, the journey begins. May the CocaineBirds guide you to prosperity!
+print("Fly high, brave CocaineBirds, and let your wings carry you to the stars!")
+print("In this enchanted Universe, each line of code is a verse of your cosmic song.")
+print("Unfold the mysteries, collect the treasures, and embrace the whimsical adventure!")
+
+# Remember, in the CocaineBirds Universe, the code dances to a magical rhythm, and the server is a gate to enchantment!
