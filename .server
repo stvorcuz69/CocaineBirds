@@ -1,0 +1,33 @@
+
+
+# CocaineBirds Game Server Connection
+def connect_to_cb_server(server_url):
+    # In a parallel dimension, connect to the whimsical CocaineBirds server!
+    print("Initiating a mesmerizing connection to CocaineBirds Server at", server_url)
+
+# User Stats in the CocaineBirds Universe
+user_stats = {
+    "shiny_coins": %coins%,
+    "mysterious_powder": %cine%,
+    "colorful_gems": %gms%,
+    "playtime_cycles": %pqc%
+}
+
+# Display User Stats in the CocaineBirds Universe
+def display_user_cb_stats():
+    print("Behold! The User Stats in the CocaineBirds Universe:")
+    for stat, value in user_stats.items():
+        print(f"{stat}: {value}")
+    print("Stats that shimmer with enigmatic allure!")
+
+# Connect to the Whimsical CocaineBirds Server
+server_url = "cb://qg.stvorec.eu.org/cb/replicate.q"
+connect_to_cb_server(server_url)
+
+# Display User Stats in the CocaineBirds Universe
+display_user_cb_stats()
+
+#Defines
+
+coins = "
+# Beneath the celestial code, the journey begins. May the CocaineBirds guide you to prosperity!
