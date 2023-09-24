@@ -17,3 +17,13 @@
 
 Hello, everyone!
 Github doesn't support uploads over 25MB sadly, so you'll get only the .exe version only. But, don't worry, this page will be frequently updated!
+
+	  ___  __          __     _____  _   _ _____ _   _  _____   ___ 
+	 |  _| \ \        / /\   |  __ \| \ | |_   _| \ | |/ ____| |_  |
+	 | |    \ \  /\  / /  \  | |__) |  \| | | | |  \| | |  __    | |
+ 	 | |     \ \/  \/ / /\ \ |  _  /| . ` | | | | . ` | | |_ |   | |
+ 	 | |      \  /\  / ____ \| | \ \| |\  |_| |_| |\  | |__| |   | |
+	 | |_      \/  \/_/    \_\_|  \_\_| \_|_____|_| \_|\_____|  _| |
+	 |___|                                                     |___|
+
+This version of CocaineBird is for Canary (Unstable) people only. It certainly doesn't work like intended!
